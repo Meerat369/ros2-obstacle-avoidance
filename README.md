@@ -14,12 +14,18 @@ TurtleBot3 Burger avoiding obstacles in Gazebo using LaserScan data, built with 
 <img width="798" height="390" alt="gazebo_demo" src="https://github.com/user-attachments/assets/8031ee20-f5c2-4a4f-96e2-254d9852e022" />
 
 ## How to run
+## How to run
+
 Terminal 1:
+```bash
 export TURTLEBOT3_MODEL=burger
 ros2 launch turtlebot3_gazebo turtlebot3_world.launch.py gui:=false
+```
 
 Terminal 2:
+```bash
 ros2 run obstacle_avoidance obstacle_avoidance
+```
 
 ## Environment
 - Ubuntu 22.04, ROS2 Humble, Gazebo, TurtleBot3 Burger
