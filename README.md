@@ -10,8 +10,8 @@ TurtleBot3 Burger avoiding obstacles in Gazebo using LaserScan data, built with 
 - Publishes velocity commands on /cmd_vel
 
 ## Demo
-![Gazebo demo](gazebo_demo.png)
-![Terminal output](terminal_output.png)
+<img width="889" height="574" alt="terminal_output" src="https://github.com/user-attachments/assets/e7c9b37c-7e2d-43b3-a06c-36300b43bd2f" />
+<img width="798" height="390" alt="gazebo_demo" src="https://github.com/user-attachments/assets/8031ee20-f5c2-4a4f-96e2-254d9852e022" />
 
 ## How to run
 Terminal 1:
